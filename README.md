@@ -23,8 +23,6 @@
 
 - **Sustainability and Ethics**: In the world of AI, ethics matter. We're committed to developing AI solutions that are not just smart but also responsible, ensuring a better digital future for all.
 
-- **Partnerships**: Collaboration is key. We've partnered with tech giants and startups, bringing synergies that amplify innovations and drive real-world impact.
-
 </details>
 
 ---
